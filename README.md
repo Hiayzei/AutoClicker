@@ -6,12 +6,11 @@ This is an open-source AutoClicker written in C++. The AutoClicker starts clicki
 
 ## Features
 - Toggle clicking with F8 and F9
-- Adjustable click interval
 - Simple and lightweight
 
 ## Installation
 
-Follow the steps below to install and help with the development of this project:
+Follow the steps below to install or help with the development of this project:
 
 1. **Clone the repository:**
 
