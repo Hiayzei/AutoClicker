@@ -22,6 +22,7 @@ Follow the steps below to install and help with the development of this project:
 
    ```bash
    cd Autoclicker
+   cd src
 
 3. **Compile the source code:**
   Ensure you have a C++ compiler installed. You can compile the code using g++:
